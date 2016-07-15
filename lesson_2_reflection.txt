@@ -1,0 +1,39 @@
+- What happens when you initialize a repository? Why do you need to do it?
+
+  A invisible folder “.git” is created to put all informations about the repository inside of it. Because all information of the repository need to be stored in some place.
+
+——————————————
+
+- How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+  Stating area is where you put your files that already done and have share that you’ll commit them later or just to separate files per commit. Working directory like your desktop where all the files are on your computer and every change that you make on the files is there. And the Repository is where you submit every change that you make.
+
+——————————————
+
+- How can you use the staging area to make sure you have one commit per logical
+change?
+
+
+——————————————
+
+- What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+
+——————————————
+
+- How do the diagrams help you visualize the branch structure?
+
+
+——————————————
+
+- What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+
+——————————————
+
+- What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+
