@@ -1,0 +1,49 @@
+-How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    When you use diff you can see the what changes you did. So if the program was working and with your changes it is not working anymore, something you did wrong. With diff all your changes can be easily seen and fixed.
+
+——————————————
+
+-How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+    You can see all your changes that you did. If there is a part of the code that is not working anymore and you did many changes, you can see what you did on older version of this file, compare and fix.
+
+——————————————
+
+-What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+    Pros: - You may forgot to commit
+          - You’ll have to commit every time that a logical change was made
+
+    Cons: - You can commit changes that are related
+          - You can give a name for easily understanding and search
+          - You’ll know what change is for, its not random
+
+——————————————
+
+-Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+    Its much better to have a version control that allow saving multiple files because one big or small change on a file can change others too and to search another file that was made the change it may be difficult
+
+——————————————
+
+-How can you use the commands git log and git diff to view the history of files?
+
+    - Can see the commits that were made
+    - Can see the number of lines that were added and deleted
+    - Can see what specific changes were made at each line
+    - Can compare two files and commit to see what changed
+
+——————————————
+
+-How might using version control make you more confident to make changes that could break something?
+
+    When I do a lot of commits and don’t test it, just in the end of the day for example, and I see a bug, I can get back to each commit to see where the bug is introduced and fix it.
+
+——————————————
+
+-Now that you have your workspace set up, what do you want to try using Git for?
+
+    Try to make an app using Git
+
