@@ -27,6 +27,7 @@ organized? How would branches help?
 
 - How do the diagrams help you visualize the branch structure?
 
+    Help me to see the differences of branches and commits that I created.
 
 ——————————————
 
