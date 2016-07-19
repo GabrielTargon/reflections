@@ -21,7 +21,7 @@ change?
 - What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
-
+    Different versions, experiments, updates, team work and others. They would split the code in two or more parts so you can make changes in one version that won’t affect the other version
 
 ——————————————
 
