@@ -34,6 +34,7 @@ organized? How would branches help?
 - What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+    It merged to branches with all your commits. To better understanding the logic, making diagram is easier to see differences between many branches.
 
 ——————————————
 
